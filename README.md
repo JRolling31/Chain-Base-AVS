@@ -1,2 +1,2 @@
 # Chain-Base-AVS
-Chainbase AVS
+Chainbase AVS set up
